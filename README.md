@@ -10,14 +10,8 @@ _TCL_School_Java의 모든 내용이 아닌 모르는 내용 + 궁금한 내용�
 _아래의 목차 링크를 통해서 원하시는 곳으로 이동가능합니다._
 
 1. [Class](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Class.java)
-2. Collection_framework
-3. Exception_handling
-4. Generic
-5. Inheritance
-6. Memory_Structure
-7. Polymorphism
-8. Stream
-9. Thread
+2. [Method_And_Constructor](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Method_And_Constructor.java)
+
 
 
 
