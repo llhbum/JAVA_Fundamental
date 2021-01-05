@@ -1,7 +1,7 @@
 ### [JAVA_TCL_School](http://www.tcpschool.com/java/intro)
 
 
-__2021년 JAVA의 기초를 알기위해서 필사 및 궁금한 내용을 정리__ </br>
+__2021년 JAVA의 기초를 다시한번 다지기 위해서 코딩테스트준비 전 TCL_School_자바 필사 및 궁금한 내용을 정리__ </br>
 _모든 출처는 TCL_School에 있습니다._ 
 </br></br>
 _TCL_School_Java의 모든 내용이 아닌 모르는 내용 + 궁금한 내용이지만 나와있지 않은 내용을 따로 정리 _
