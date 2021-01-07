@@ -93,7 +93,7 @@ public class Inheritance {
                 - 하지만 그 개념은 확실히 다르며, 그 차이점을 아는 것이 중요합니다.
                 - 간단히 정의하면 오버로딩은 새로운 메소드를 정의하는 것입니다.
                 - 하지만 오버라이딩은 상속받은 기존의 메소드를 재정의하는 것입니다.
-                - 예제
+                예제
                 class Parent {
                     void display() { System.out.println("부모 클래스의 display() 메소드입니다."); }
                 }
