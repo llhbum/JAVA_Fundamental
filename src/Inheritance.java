@@ -1,3 +1,4 @@
+
 public class Inheritance {
     public static void main(String[] args) {
         /*
@@ -38,6 +39,27 @@ public class Inheritance {
                 - 이렇게 자바에서는 super 참조 변수를 사용하여 부모 클래스의 멤버에 접근할 수 있습니다.
                 - this와 마찬가지로 super참조 변수를 사용할 수 있는 대상도 인스턴스 메소드뿐이며, 클래스 메소드에서는 사용할 수 없습니다.
 
+                예제
+                class Parent {
+                    int a = 10;
+                }
+                class Child extends Parent {
+                    int a = 20;
+                    void display() {
+                        System.out.println(a);
+                        System.out.println(this.a);
+                        System.out.println(super.a);
+                    }
+                }
+                public class Inheritance03 {
+                    public static void main(String[] args) {
+                        Child ch = new Child();
+                        ch.display();
+                    }
+                }
+                - 지역 변수와 this 참조변수는 자식 클래스에서 대입된 값을 출력하며, super 참조 변수만이 부모 클래스에서 대입된 값을 출력하게 됩니다.
+
+
             * super() 메소드
                 - this() 메소드가 같은 클래스의 다른 생성자를 호출할 때 사용된다면, super()메소드는 부모 클래스의 생성자를 호출할 떄 사용됩니다.
                 - 자식 클래스의 인스턴스를 생성하면, 해당 인스턴스에는 자식 클래스의 고유 멤버뿐만 아니라 부모 클래스의 모든 멤버까지도 포함되어 있습니다.
@@ -71,7 +93,24 @@ public class Inheritance {
                 - 하지만 그 개념은 확실히 다르며, 그 차이점을 아는 것이 중요합니다.
                 - 간단히 정의하면 오버로딩은 새로운 메소드를 정의하는 것입니다.
                 - 하지만 오버라이딩은 상속받은 기존의 메소드를 재정의하는 것입니다.
+                - 예제
+                class Parent {
+                    void display() { System.out.println("부모 클래스의 display() 메소드입니다."); }
+                }
+                class Child extends Parent {
+                    // 오버라이딩된 display() 메소드
+                    void display() { System.out.println("자식 클래스의 display() 메소드입니다."); }
+                    void display(String str) { System.out.println(str); } // 오버로딩된 display() 메소드
+                }
+                public class Inheritance06 {
+                    public static void main(String[] args) {
+                        Child ch = new Child();
+                        ch.display();
+                        ch.display("오버로딩된 display() 메소드입니다.");
+                    }
+                }
 
          */
+
     }
 }
