@@ -1,10 +1,12 @@
 ### [JAVA_TCL_School](http://www.tcpschool.com/java/intro)
+### [남궁성의 정석코딩(Youtube)](https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
 
+_출처 및 ref TCL_School, 남궁성의 정석코딩(Youtube)_ 
 
-__2021년 코딩테스트준비 전 JAVA의 기초를 다시한번 다지기 위해서 TCL_School_JAVA 필사 및 궁금한 내용을 정리__ </br>
-_모든 출처는 TCL_School에 있습니다._ 
+__Java의 기본적인 개념 및 문법을 위해서 정리한 자료 </br>
+
 </br></br>
-TCL_School_Java의 모든 내용이 아닌 모르는 내용 + 궁금한 내용이지만 나와있지 않은 내용을 따로 정리
+저의 기준 모르는 내용 + 궁금한 내용이지만 나와있지 않은 내용을 따로 정리
 </br>
 </br>
 _아래의 목차 링크를 통해서 원하시는 곳으로 이동가능합니다._
@@ -21,5 +23,11 @@ _아래의 목차 링크를 통해서 원하시는 곳으로 이동가능합니�
 10. [Exception_handling](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Exception_handling.java)
 11. [Stream](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Stream.java)
 
-
+### 1.2.1. 장점
+	1. 간결하다.
+	2. 별도의 도구없이 작성가능하다.
+	3. 다양한 형태로 변환이 가능하다.
+	3. 텍스트(Text)로 저장되기 때문에 용량이 적어 보관이 용이하다.
+	4. 텍스트파일이기 때문에 버전관리시스템을 이용하여 변경이력을 관리할 수 있다.
+	5. 지원하는 프로그램과 플랫폼이 다양하다.
 
