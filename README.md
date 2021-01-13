@@ -23,11 +23,14 @@ _아래의 목차 링크를 통해서 원하시는 곳으로 이동가능합니�
 10. [Exception_handling](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Exception_handling.java)
 11. [Stream](https://github.com/llhbum/JAVA_TCL_School/blob/master/src/Stream.java)
 
-### 1.2.1. 장점
-	1. 간결하다.
-	2. 별도의 도구없이 작성가능하다.
-	3. 다양한 형태로 변환이 가능하다.
-	3. 텍스트(Text)로 저장되기 때문에 용량이 적어 보관이 용이하다.
-	4. 텍스트파일이기 때문에 버전관리시스템을 이용하여 변경이력을 관리할 수 있다.
-	5. 지원하는 프로그램과 플랫폼이 다양하다.
-
+### ex
+	 /*
+	 [클래스명 - 대제목]
+	** [제목]
+            * [소제목]
+                - [내용1]
+                - [내용1]
+                - [내용2]
+		[예제코드]
+            ? [추가 사항정리]
+	*/
