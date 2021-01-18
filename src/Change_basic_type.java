@@ -13,5 +13,14 @@ public class Change_basic_type {
 
         //숫자 ->  문자열  : Integer.valueOf(s)
         System.out.println(Integer.valueOf(s));
+
+        /*
+
+        7
+        123
+        1
+        123
+
+         */
     }
 }
