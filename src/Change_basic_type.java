@@ -1,3 +1,4 @@
+
 public class Change_basic_type {
     public static void main(String[] args) {
         String s = "123";
@@ -22,5 +23,6 @@ public class Change_basic_type {
         123
 
          */
+
     }
 }
